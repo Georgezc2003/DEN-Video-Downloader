@@ -2,6 +2,7 @@
 
 Download USC DEN lecture videos beyond limitations.
 
+* Fix Bugs when deal with coursename including "()"
 * `.ts` file format with H.264 and AAC coded.
 * No expiration dates.
 * No DEN Player needed.
